@@ -22,8 +22,11 @@ I work
 &#128302;I only like absolute perfection.  
 
 &#9993;**Reach Me On:**  
-[ссылка],[ссылка]
-
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 <div align = center>
 <h2>
