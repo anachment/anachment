@@ -2,7 +2,7 @@
 <img src="header.jpg" alt="Пример изображения" width="1050" height="299">
 
 <h2 align = center> 
-Hello world!
+Welcome!. This is my GitHub profile </>.
 </h2>
 
 
