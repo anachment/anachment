@@ -24,7 +24,8 @@ I work
 &#9993;**Reach Me On:**  
 <div id="badges">
   <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="[https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge](https://img.shields.io/badge/:badgeContent?logo=https%3A%2F%2Fcamo.githubusercontent.com%2F2f2b0c82cb9dc05f15a7b3724637a4862a98f06ad90260c6577fa873571475e6%2F68747470733a2f2f646f776e6c6f61642e6c6f676f2e77696e652f6c6f676f2f54656c656772616d5f28736f667477617265292f54656c656772616d5f28736f667477617265292d4c6f676f2e77696e652e706e67&logoColor=blue
+)"/>
   </a>
 </div>
 
