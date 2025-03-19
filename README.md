@@ -8,7 +8,7 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;I am developing myself in the field of programming. I am currently working as an electronics engineer. We plan to acquire the necessary knowledge in programming, and in particular, to master the C++ language well, and begin our journey as an IT specialist. I am glad to meet new people, especially I want to find like-minded people...</p>
 
 <br>
-<br>
+
 
 ## :dizzy:**About me**
 
