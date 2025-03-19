@@ -14,7 +14,7 @@ I work
 ***
 
 [//]: # (Пишем био)
->&#129513;I strive to learn something new every day.  
+&#129513;I strive to learn something new every day.  
 &#128187;I'm currently learning C++ and am constantly improving in this area.   
 &#128302;I only like absolute perfection.  
 
