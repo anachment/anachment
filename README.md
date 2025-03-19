@@ -1,9 +1,9 @@
 
 <img src="header.jpg" alt="Пример изображения" width="1050" height="299">
 
-<h2 align = center> 
+<h1 align = center> 
 	&#128075; Welcome! This is my GitHub profile.
-</h2>
+</h1>
 
 
 
