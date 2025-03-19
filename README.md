@@ -19,7 +19,7 @@
 &#128187;I'm currently learning C++ and am constantly improving in this area.   
 &#128302;I only like absolute perfection.  
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&#9993;<strong>Reach Me On:</strong></p>
+<p>&nbsp;&nbsp;&nbsp;&#9993;<strong>Reach Me On:</strong></p>
 
 
 <div align = center>
