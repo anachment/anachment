@@ -1,5 +1,5 @@
 
-<img src="header.jpg" alt="Пример изображения" width="900" height="350">
+<img src="header.jpg" alt="Пример изображения" width="1001" height="350">
 
 <h2 align = center> 
 Hello world!
