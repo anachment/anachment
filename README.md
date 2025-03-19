@@ -37,4 +37,4 @@
 
 ***
 	
-<img src="gif_back.mp4">
+<video src="gif_back.mp4" width="640" height="360" controls>
