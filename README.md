@@ -2,7 +2,7 @@
 <img src="header.jpg" alt="Пример изображения" width="1050" height="299">
 
 <h2 align = center> 
-	&#128075; Welcome!. This is my <img src="https://camo.githubusercontent.com/023330909dd3262d282ebd393465b9c81a00086febd0a12efb156f62526ec6e5/68747470733a2f2f63646e2e77696b696d672e6e65742f656e2f73706c61746f6f6e77696b692f696d616765732f7468756d622f382f38382f4769744875625f49636f6e2e7376672f3132303070782d4769744875625f49636f6e2e7376672e706e67" alt="github" width="" height="31" /> GitHub profile.
+	&#128075; Welcome!. This is my GitHub profile.
 </h2>
 
 
