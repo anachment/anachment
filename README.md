@@ -35,6 +35,8 @@ Computer architecture. (Tanenbaum)
 Grok the algorithms. (Aditya Bhargava)*  
 >
 
+***
+
 <p>&nbsp;&nbsp;&nbsp;&#128236;<strong>Reach Me On:</strong></p>
 &nbsp;&nbsp;&nbsp; <a href="https://t.me/anachment">
 	<img src="https://user-images.githubusercontent.com/50621007/168689534-796f181e-3e4c-43a5-8183-9888fc92cfa7.png" alt="tg" width="40" height="40">
