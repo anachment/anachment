@@ -39,4 +39,4 @@
 ***
 
 
-<p><img src="back3.gif" width="990" height="501" alt="Иллюстрация" vspace="5" hspace="5">
+<p><img src="back3.gif" width="992" height="501" alt="Иллюстрация" vspace="5" hspace="5">
