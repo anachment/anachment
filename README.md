@@ -34,4 +34,6 @@
 
 </div>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+
 <p><img src="12345.gif.gif" width="1000" height="200" alt="Иллюстрация" vspace="5" hspace="5">
