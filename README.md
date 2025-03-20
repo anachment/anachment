@@ -18,7 +18,7 @@
 &#128187;I'm currently learning C++ and am constantly improving in this area.   
 &#128302;I only like absolute perfection.  
 
-## &nbsp;:mortar_board:The books I've read
+## :mortar_board:The books I've read
 
 >*JavaScript from scratch to the pros.  
 Learning C++. Through game programming.  
