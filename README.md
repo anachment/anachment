@@ -1,5 +1,5 @@
 
-<img src="111.jpg" alt="Пример изображения" width="1050" height="299">
+<img src="2.gif.mp4" alt="Пример изображения" width="1050" height="299">
 
 <h1 align = center> 
 	&#128075; Welcome! This is my GitHub profile.
