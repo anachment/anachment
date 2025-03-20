@@ -20,7 +20,7 @@
 
 <p>&nbsp;&nbsp;&nbsp;&#9993;<strong>Reach Me On:</strong></p>
 <a href="t.me/anachment">
-	<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fru%2Fsearch%3Fq%3D%25D0%25BB%25D0%25BE%25D0%25B3%25D0%25BE%25D1%2582%25D0%25B8%25D0%25BF%2BTelegram&psig=AOvVaw3ayf5MwNQORdEIvVsnqU_t&ust=1742576210016000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLDz0bGQmYwDFQAAAAAdAAAAABAJ" alt="tg" width="600" height="200" width="600">
+	<img src="https://sun9-27.userapi.com/s/v1/ig2/XL1OqLVGqscszY2Y5xObzz31uzub2GjdGbDXBoroxnnJGoNTk5z8Gsbe_tTSDCEIbX3BpnZP9OlsNyVAw3VNB20Z.jpg?quality=95&as=32x12,48x17,72x26,108x39,160x58,240x86,360x130,480x173,540x194,640x230,720x259,1000x360&from=bu&u=t5OdEjmizg5x3EG9HpLKiA4E6EU4uA1__Yn2ZC0jN34&cs=1000x360" alt="tg" width="600" height="200" width="600">
 </a>
 
 <div align = center>
