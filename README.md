@@ -33,6 +33,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vsc" width="" height="42" /> <img src="https://rafiquzzamanrafi.gallerycdn.vsassets.io/extensions/rafiquzzamanrafi/visualstudiolightpro/1.0/1632225226691/Microsoft.VisualStudio.Services.Icons.Default" alt="vscc" width="" height="42" /> <img src="https://shinyypig.gallerycdn.vsassets.io/extensions/shinyypig/matlab-in-vscode/0.5.2/1730702302777/Microsoft.VisualStudio.Services.Icons.Default" alt="vscc" width="" height="42" />
 </div>
 
+<br>
 
 
 <p><img src="12345.gif.gif" width="1000" height="200" alt="Иллюстрация" vspace="5" hspace="5">
