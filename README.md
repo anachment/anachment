@@ -19,7 +19,9 @@
 &#128302;I only like absolute perfection.  
 
 <p>&nbsp;&nbsp;&nbsp;&#9993;<strong>Reach Me On:</strong></p>
-
+<a href="t.me/anachment">
+	<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fru%2Fsearch%3Fq%3D%25D0%25BB%25D0%25BE%25D0%25B3%25D0%25BE%25D1%2582%25D0%25B8%25D0%25BF%2BTelegram&psig=AOvVaw3ayf5MwNQORdEIvVsnqU_t&ust=1742576210016000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLDz0bGQmYwDFQAAAAAdAAAAABAJ" alt="tg" width="600" height="200" width="600">
+</a>
 
 <div align = center>
 <h2>
