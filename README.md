@@ -18,7 +18,7 @@
 &#128187;I'm currently learning C++ and am constantly improving in this area.   
 &#128302;I only like absolute perfection.  
 
-&nbsp;&nbsp; ## :mortar_board:The books I've read
+## &nbsp; :mortar_board:The books I've read
 
 >*JavaScript from scratch to the pros.  
 Learning C++. Through game programming.  
@@ -26,7 +26,7 @@ Learning C++. Through game programming.
 Code is the secret language of computer science. (Charles Petzold)*
 >
 
-&nbsp;&nbsp; **:clipboard:Plans to read more:**
+&nbsp; **:clipboard:Plans to read more:**
 
 >*Advanced algorithms.   
 Antifragility. How to capitalize on the chaos.  
