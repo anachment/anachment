@@ -37,7 +37,7 @@ Grok the algorithms. (Aditya Bhargava)*
 
 ## &nbsp;
 
-<p>&nbsp;&nbsp;&nbsp;<h3><strong>&#128236;Reach Me On:</strong></h3></p>
+<p><h3><strong>&#128236;Reach Me On:</strong></h3></p>
 &nbsp;&nbsp;&nbsp; <a href="https://t.me/anachment">
 	<img src="https://user-images.githubusercontent.com/50621007/168689534-796f181e-3e4c-43a5-8183-9888fc92cfa7.png" alt="tg" width="40" height="40">
 </a>
