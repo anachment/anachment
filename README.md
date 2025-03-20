@@ -32,8 +32,7 @@ Code is the secret language of computer science. (Charles Petzold)*
 Antifragility. How to capitalize on the chaos.  
 Bio hacker.  
 Computer architecture. (Tanenbaum)  
-Grok the algorithms. (Aditya Bhargava)*  
->
+>Grok the algorithms. (Aditya Bhargava)*  
 
 ## &nbsp;
 
