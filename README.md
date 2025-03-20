@@ -1,4 +1,4 @@
-<p><img src="123456.gif.gif" width="1000" height="200" alt="Иллюстрация" vspace="5" hspace="5">
+<p><img src="header.gif" width="1000" height="200" alt="Иллюстрация" vspace="5" hspace="5">
 
 <h1 align = center> 
 	&#128075; Welcome! This is my GitHub profile.
