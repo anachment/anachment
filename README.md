@@ -35,5 +35,4 @@
 </div>
 
 ***
-	
-<video src="1.gif.mp4" width="640" height="360" controls>
+[![123](1.gif.mp4)]
