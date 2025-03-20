@@ -34,6 +34,9 @@
 </div>
 
 <br>
+<br>
+
+***
 
 
 <p><img src="12345.gif.gif" width="1000" height="200" alt="Иллюстрация" vspace="5" hspace="5">
