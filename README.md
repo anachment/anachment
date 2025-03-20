@@ -20,7 +20,7 @@
 
 <p>&nbsp;&nbsp;&nbsp;&#9993;<strong>Reach Me On:</strong></p>
 <a href="t.me/anachment">
-	<img src="https://sun9-27.userapi.com/s/v1/ig2/XL1OqLVGqscszY2Y5xObzz31uzub2GjdGbDXBoroxnnJGoNTk5z8Gsbe_tTSDCEIbX3BpnZP9OlsNyVAw3VNB20Z.jpg?quality=95&as=32x12,48x17,72x26,108x39,160x58,240x86,360x130,480x173,540x194,640x230,720x259,1000x360&from=bu&u=t5OdEjmizg5x3EG9HpLKiA4E6EU4uA1__Yn2ZC0jN34&cs=1000x360" alt="tg" width="600" height="200" width="600">
+	<img src="https://user-images.githubusercontent.com/50621007/168689534-796f181e-3e4c-43a5-8183-9888fc92cfa7.png" alt="tg" width="600" height="200" width="600">
 </a>
 
 <div align = center>
