@@ -19,7 +19,7 @@
 &#128302;I only like absolute perfection.  
 
 <p>&nbsp;&nbsp;&nbsp;&#9993;<strong>Reach Me On:</strong></p>
-<a href="t.me/@anachment">
+<a href="https://t.me/anachment">
 	<img src="https://user-images.githubusercontent.com/50621007/168689534-796f181e-3e4c-43a5-8183-9888fc92cfa7.png" alt="tg" width="54" height="54" width="600">
 </a>
 
