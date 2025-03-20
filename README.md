@@ -35,4 +35,7 @@
 </div>
 
 ***
-![123](1.gif.mp4)
+<p><img src="https://media1.tenor.com/m/CzdMW7wnLn8AAAAC/coding.gif" width="100" height="200" alt="Иллюстрация" align="right" vspace="5" hspace="5">
+&#129513;*I strive to learn something new every day. <br>  
+&#128187;I'm currently learning C++ and am constantly improving in this area.<br> 
+&#128302;I only like absolute perfection.</p>
