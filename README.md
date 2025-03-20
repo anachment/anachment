@@ -18,7 +18,7 @@
 &#128187;I'm currently learning C++ and am constantly improving in this area.   
 &#128302;I only like absolute perfection.  
 
-## :mortar_board:The books I've read
+&nbsp;&nbsp; ## :mortar_board:The books I've read
 
 >*JavaScript from scratch to the pros.  
 Learning C++. Through game programming.  
@@ -26,7 +26,7 @@ Learning C++. Through game programming.
 Code is the secret language of computer science. (Charles Petzold)*
 >
 
-**:clipboard:Plans to read more:**
+&nbsp;&nbsp; **:clipboard:Plans to read more:**
 
 >*Advanced algorithms.   
 Antifragility. How to capitalize on the chaos.  
@@ -35,7 +35,7 @@ Computer architecture. (Tanenbaum)
 Grok the algorithms. (Aditya Bhargava)*  
 >
 
-<p><strong>Reach Me On:</strong></p>
+<p>&nbsp;&nbsp;<strong>Reach Me On:</strong></p>
 <a href="https://t.me/anachment">
 	<img src="https://user-images.githubusercontent.com/50621007/168689534-796f181e-3e4c-43a5-8183-9888fc92cfa7.png" alt="tg" width="40" height="40">
 </a>
