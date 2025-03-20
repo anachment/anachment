@@ -18,7 +18,7 @@
 &#128187;I'm currently learning C++ and am constantly improving in this area.   
 &#128302;I only like absolute perfection.  
 
-## The books I've read
+##:books:The books I've read
 
 >*JavaScript from scratch to the pros.  
 Learning C++. Through game programming.  
@@ -26,13 +26,13 @@ Learning C++. Through game programming.
 Code is the secret language of computer science. (Charles Petzold)*
 >
 
-**Plans to read more:**
+**:clipboard:Plans to read more:**
 
->Advanced algorithms.   
+>*Advanced algorithms.   
 Antifragility. How to capitalize on the chaos.  
 Bio hacker.  
 Computer architecture. (Tanenbaum)  
-Grok the algorithms. (Aditya Bhargava)  
+Grok the algorithms. (Aditya Bhargava)*  
 >
 
 <p><strong>Reach Me On:</strong></p>
@@ -44,7 +44,7 @@ Grok the algorithms. (Aditya Bhargava)
 
 <div align = center>
 <h2>
-&#128218; <strong> Languages & tools I Have placed My Hands On </strong>
+&#128187; <strong> Languages & tools I Have placed My Hands On </strong>
 </div>
 
 
