@@ -18,7 +18,7 @@
 &#128187;I'm currently learning C++ and am constantly improving in this area.   
 &#128302;I only like absolute perfection.  
 
-##:books:The books I've read
+## :mortar_board:The books I've read
 
 >*JavaScript from scratch to the pros.  
 Learning C++. Through game programming.  
@@ -44,7 +44,7 @@ Grok the algorithms. (Aditya Bhargava)*
 
 <div align = center>
 <h2>
-&#128187; <strong> Languages & tools I Have placed My Hands On </strong>
+&#128218; <strong> Languages & tools I Have placed My Hands On </strong>
 </div>
 
 
